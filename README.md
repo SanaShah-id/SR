@@ -1,12 +1,14 @@
-# SR P
+# SR
+SR parameters
 SR parameters
 # surfreport/{beachId}
 
-Returns all the information about surfing conditions at a specific beach ID, including the surf height, water temperature, wind, and tide. Also provides an overall recommendation about whether to go surfing.
+Returns information about surfing conditions at a specific beach ID, including the surf height, water temperature, wind, and tide. Also provides an overall recommendation about whether to go surfing.
+Surfing.
 
 `{beachId}` refers to the ID for the beach you want to look up. All Beach ID codes are available from our site.
 
-## Endpoint definitions
+## Endpoint definition
 
 `surfreport/{beachId}`
 
