@@ -1,7 +1,30 @@
 # SR
 SR parameters
-SR parameters
+SR 2 parameters
+SR 3 parameters
+SR 4 parameters
+SR 5 parameters
+SR 6 parameters
+SR 7 parameters
 # surfreport/{beachId}
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+Return
+Return 2
+Return 3
+Return 4
+Return 5
+Return 6
+Return 7
+Return 8
 
 Returns information about surfing conditions at a specific beach ID, including the surf height, water temperature, wind, and tide. Also provides an overall recommendation about whether to go surfing.
 Surfing.
